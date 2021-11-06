@@ -1,3 +1,3 @@
 # project1
-Class structure for DAtalabs screening exercise
+Class structure for Datalabs screening exercise
 
